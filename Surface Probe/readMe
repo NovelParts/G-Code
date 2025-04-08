@@ -1,3 +1,3 @@
 This Code will need to be modified for use.  The tool postion for your probe will have to be modified.  TO use the DPRINT statment must be setup on your machine to save the data to an accesable directory.  The output once processed will look somethign like this:
   
-![Example_Image]("g-code/surface probe/Example.jpg")
+![Example_Image](G-Code/Surface\ Probe/Example.jpg)
